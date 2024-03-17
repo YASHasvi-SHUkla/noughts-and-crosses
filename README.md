@@ -1,3 +1,3 @@
 Go and play : https://noughts-and-crosses-gilt.vercel.app/
 <br>
-A stone paper scissors game implementation in Js using HTML and CSS. Displaying the current scores of both the user and the computer.
+A simple fully dynamic and working Tic Tac Toe game implementation in JavaScript
